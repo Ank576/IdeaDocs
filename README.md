@@ -1,34 +1,32 @@
 # IdeaDocs
 
-AI-assisted PRD and Product Strategy Document Generator
+A Collaborative Platform for Product Idea Discussion and Evaluation
 
 ## Description
 
-IdeaDocs streamlines the creation of Product Requirements Documents (PRDs) and strategic product planning materials using advanced AI assistance. Designed for product managers, founders, and strategy teams, IdeaDocs helps you generate detailed, goal-driven documents that align vision with execution from ideation to launch.
+IdeaDocs is designed as a centralized space for teams to brainstorm, discuss, and evaluate product ideas with AI assistance. It helps product managers, innovators, and stakeholders capture ideas, assess their feasibility, prioritize features, and align on strategic decisions through structured collaboration and AI-powered insights.
 
 ## Features
 
-- Generates complete PRDs from minimal initial inputs or idea briefs
-- AI-guided product strategy, feature prioritization, and roadmap suggestions
-- Customizable templates for product strategy and planning
-- Actionable, structured output suitable for collaboration and executive presentations
-- Supports iterative refinement and integration with standard productivity suites
+- Collaborative idea submission and discussion threads
+- AI-assisted evaluation of ideas based on impact, effort, and market fit
+- Voting and ranking mechanisms to prioritize ideas transparently
+- Documentation of idea evolution, feedback, and decision rationale
+- Integration with product roadmaps and strategy documents
+- Support for tagging, categorization, and filtering to focus conversations
 
 ## Focus
 
-Product Strategy: IdeaDocs is built specifically to enhance strategic planning and documentation, ensuring every product idea moves forward with clarity and focus.
+Product Strategy & Idea Management: IdeaDocs fosters a culture of open innovation and structured decision-making to ensure the best ideas are surfaced and effectively translated into actionable product plans.
 
 ## Usage
 
-1. Input your product idea, goals, or team vision
-2. Let AI guide you through questions to clarify key requirements and objectives
-3. Receive an instantly generated PRD and strategy document tailored to your use case
-4. Refine, export, or share as needed with your team
-
-## Getting Started
-
-Coming soon: Installation, quick start, and API integration details.
+1. Submit new product ideas with relevant context and objectives.
+2. Participate in discussions, provide feedback, and collaborate with your team.
+3. Use AI-generated insights to assess risks, benefits, and market potential.
+4. Prioritize ideas through voting and consensus-building.
+5. Document approved ideas for inclusion in product strategy and development roadmaps.
 
 ---
 
-*Empowering teams to move from idea to action — with strategy, speed, and clarity.*
+*Turning ideas into winning products through collaborative discussion and informed evaluation.*
